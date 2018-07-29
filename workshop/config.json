@@ -1,0 +1,9 @@
+{
+  "country": "united_republic_of_tanzania",
+  "bounding_box": [39.105148315429695,-6.627522112236093,39.1933822631836,-6.569970207851596],
+  "zoom": 17,
+  "classes": [{ "name": "Buildings", "filter": ["has", "building"] }],
+  "imagery": "https://a.tiles.mapbox.com/v4/digitalglobe.2lnpeioh/{z}/{x}/{y}.jpg?access_token=",
+  "background_ratio": 1,
+  "ml_type": "classification"
+}
